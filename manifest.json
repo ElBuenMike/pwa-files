@@ -1,0 +1,21 @@
+{
+  "name": "Nombre Completo de tu Sitio",
+  "short_name": "Nombre Corto",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#232626",
+  "theme_color": "#232626",
+  "description": "Descripción de tu sitio web.",
+  "icons": [
+    {
+      "src": "URL_A_TU_ICONO_192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "URL_A_TU_ICONO_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
